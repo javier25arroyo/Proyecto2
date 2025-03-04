@@ -1,0 +1,36 @@
+﻿@page
+@model WebApp___SistemaProveeduria.Pages.CreateTenderModel
+@{
+}
+
+<h1 class="mt-5">Crear licitación</h1>
+<form>
+<fieldset>
+    <div class="form-check form-switch">
+        <input class="form-check-input" type="checkbox" id="flexSwitchCheckChecked" checked="">
+        <label class="form-check-label" for="flexSwitchCheckChecked">Licitación automatica</label>
+    </div>
+    <div class="form-group">
+        <label for="inputInstitution" class="form-label mt-6">Institución:</label>
+        <input type="text" class="form-control" id="inputInstitution" placeholder="Escriba el nombre de la institución">
+    </div>
+    <div class="form-group">
+        <label for="inputClosingDate" class="form-label mt-4">Fecha de cierre de oferta:</label>
+        <input type="date" class="form-control" id="inputClosingDate">
+    </div>
+    <div class="form-group">
+        <label for="inputClosingLicitacion" class="form-label mt-4">Fecha de cierre de la licitación:</label>
+        <input type="date" class="form-control" id="inputClosingLicitacion">
+    </div>
+    <div class="form-group">
+        <label for="exampleTextarea" class="form-label mt-4">Productos:</label>
+        <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
+    </div>
+    <div class="form-group">
+            <label for="inputDeliveryLocation" class="form-label mt-6">Lugar de entrega:</label>
+            <input type="text" class="form-control" id="inputDeliveryLocation" placeholder="Escriba el lugar de entrega">
+    </div>
+    <p></p>
+        <button id="btn-Create" class="source-button btn btn-primary btn-xs" type="button" tabindex="8">Crear</button>
+</fieldset>
+</form>

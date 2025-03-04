@@ -1,0 +1,8 @@
+D:\Universidad\Azure\SistemaProveeduriaAPI\obj\Debug\net6.0\SistemaProveeduriaAPI.csproj.AssemblyReference.cache
+D:\Universidad\Azure\SistemaProveeduriaAPI\obj\Debug\net6.0\SistemaProveeduriaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Azure\SistemaProveeduriaAPI\obj\Debug\net6.0\SistemaProveeduriaAPI.AssemblyInfoInputs.cache
+D:\Universidad\Azure\SistemaProveeduriaAPI\obj\Debug\net6.0\SistemaProveeduriaAPI.AssemblyInfo.cs
+D:\Universidad\Azure\SistemaProveeduriaAPI\obj\Debug\net6.0\SistemaProveeduriaAPI.csproj.CoreCompileInputs.cache
+D:\Universidad\Azure\SistemaProveeduriaAPI\obj\Debug\net6.0\SistemaProveeduriaAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad\Azure\SistemaProveeduriaAPI\obj\Debug\net6.0\SistemaProveeduriaAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Azure\SistemaProveeduriaAPI\obj\Debug\net6.0\SistemaProveeduriaAPI.sourcelink.json

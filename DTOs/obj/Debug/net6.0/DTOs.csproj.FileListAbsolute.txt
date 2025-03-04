@@ -1,0 +1,12 @@
+D:\Universidad\Azure\DTOs\bin\Debug\net6.0\DTOs.deps.json
+D:\Universidad\Azure\DTOs\bin\Debug\net6.0\DTOs.dll
+D:\Universidad\Azure\DTOs\bin\Debug\net6.0\DTOs.pdb
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfoInputs.cache
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfo.cs
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\DTOs.csproj.CoreCompileInputs.cache
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\DTOs.sourcelink.json
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\DTOs.dll
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\refint\DTOs.dll
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\DTOs.pdb
+D:\Universidad\Azure\DTOs\obj\Debug\net6.0\ref\DTOs.dll

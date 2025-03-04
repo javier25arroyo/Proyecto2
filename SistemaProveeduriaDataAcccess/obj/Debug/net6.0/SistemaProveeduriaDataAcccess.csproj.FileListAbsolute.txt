@@ -1,0 +1,16 @@
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\bin\Debug\net6.0\SistemaProveeduriaDataAcccess.deps.json
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\bin\Debug\net6.0\SistemaProveeduriaDataAcccess.dll
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\bin\Debug\net6.0\SistemaProveeduriaDataAcccess.pdb
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\bin\Debug\net6.0\DTOs.dll
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\bin\Debug\net6.0\DTOs.pdb
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaProveeduriaDataAcccess.csproj.AssemblyReference.cache
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaProveeduriaDataAcccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaProveeduriaDataAcccess.AssemblyInfoInputs.cache
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaProveeduriaDataAcccess.AssemblyInfo.cs
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaProveeduriaDataAcccess.csproj.CoreCompileInputs.cache
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaProveeduriaDataAcccess.sourcelink.json
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaP.C3E639F9.Up2Date
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaProveeduriaDataAcccess.dll
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\refint\SistemaProveeduriaDataAcccess.dll
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\SistemaProveeduriaDataAcccess.pdb
+D:\Universidad\Azure\SistemaProveeduriaDataAcccess\obj\Debug\net6.0\ref\SistemaProveeduriaDataAcccess.dll

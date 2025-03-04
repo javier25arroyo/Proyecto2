@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O6wM0pkw3zQ=",
+  "success": true,
+  "projectFilePath": "D:\\Universidad\\Azure\\DTOs\\DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
